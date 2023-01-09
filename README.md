@@ -1,4 +1,9 @@
 ## 🗿 Hello there <img align="right" width=490 src="https://github.com/Ceasor06/Ceasor06/blob/main/obiwan-hellothere.gif" />
+
+<a href="https://www.linkedin.com/in/atharv-arya-322663149/">
+  <img align="left" alt="Atharv Arya LinkedIn" width="22px" src="https://cdn.tomondre.com/icons/linkedinn.svg" />
+</a>
+
 <br clear="left"/>
 
 - 🔭 I’m currently working on my Capstone project.
