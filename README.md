@@ -13,4 +13,6 @@
 - 📫 Contact me on [Linkedin](https://www.linkedin.com/in/atharv-arya-322663149?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BU8V%2Fe5GYSdieBKF9zRz0Uw%3D%3D)
 - 🗽 Fun fact: 
 
-
+<p align="right"> <img src="https://github-readme-stats.vercel.app/api?username=ceasor06&show_icons=true&theme=great-gatsby" alt="tomondre" />
+  
+<img width="0" src="https://visitor-badge.glitch.me/badge?page_id=ceasor06.ceasor06" />
