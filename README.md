@@ -1,7 +1,6 @@
 ## 🗿 Hello there <img align="right" width=490 src="https://github.com/Ceasor06/Ceasor06/blob/main/obiwan-hellothere.gif" />
 <br clear="left"/>
 
-
 - 🔭 I’m currently working on my Capstone project.
 - 🌱 I’m currently learning Quantum Mechanics.
 - 🤔 Applying for Grad-Universities. 
