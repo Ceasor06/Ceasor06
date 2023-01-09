@@ -17,6 +17,6 @@
 
 </br>
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=ceasor06&show_icons=true&theme=great-gatsby" alt="tomondre" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=ceasor06&show_icons=true&theme=great-gatsby" alt="ceasor06" />
   
 <img width="0" src="https://visitor-badge.glitch.me/badge?page_id=ceasor06.ceasor06" />
