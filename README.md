@@ -5,7 +5,7 @@
 </a>
 
 <a href="https://www.github.com/Ceasor06/">
-  <img alt="Atharv Arya Github" width="22px" src="https://github.com/Ceasor06/Ceasor06/blob/main/174857.png" />
+  <img alt="Atharv Arya Github" width="22px" src="https://github.com/Ceasor06/Ceasor06/blob/main/GitHub-Mark.png" />
 </a>
 
 <br clear="left"/>
