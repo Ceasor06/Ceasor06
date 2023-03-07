@@ -10,7 +10,7 @@
   <img align="left" alt="Atharv Arya Instagram" width="23px" src="https://user-images.githubusercontent.com/105945382/223475737-8c4d740b-9fce-4e50-837a-2fc2dbfd0ff8.png" />
 </a>
 <a href="https://www.facebook.com/profile.php?id=100085686619331">
-  <img alt="Atharv Arya Facebook" width="22px" src="https://user-images.githubusercontent.com/105945382/223480513-87077368-3b5a-427b-9f47-030e15a42c47.png" />
+  <img align="left" alt="Atharv Arya Facebook" width="22px" src="https://user-images.githubusercontent.com/105945382/223480513-87077368-3b5a-427b-9f47-030e15a42c47.png" />
 </a>
 <br clear="left"/>
 </br>
@@ -20,7 +20,7 @@
 - 🤔 Applying for Grad-Universities. 
 - 💬 Ask me about **ML related doubts, Physics, and any conspiracy theories 👀.**
 - 📫 Contact me on [Linkedin](https://www.linkedin.com/in/atharv-arya-322663149?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BU8V%2Fe5GYSdieBKF9zRz0Uw%3D%3D)
-- 🗽 Fun fact: 
+- 🗽 Fun fact: My Life
 
 </br>
 
