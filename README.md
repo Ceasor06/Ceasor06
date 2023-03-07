@@ -9,7 +9,7 @@
 <br clear="left"/>
 </br>
 
-- 🔭 I’m currently working on my Capstone project.
+- 🔭 I’m currently working on my Capstone and research project.
 - 🌱 I’m currently learning Quantum Mechanics.
 - 🤔 Applying for Grad-Universities. 
 - 💬 Ask me about **ML related doubts, Physics, and any conspiracy theories 👀.**
