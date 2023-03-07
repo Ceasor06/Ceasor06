@@ -9,6 +9,9 @@
 <a href="https://www.instagram.com/ar_ya5282/?hl=en">
   <img align="left" alt="Atharv Arya Instagram" width="23px" src="https://user-images.githubusercontent.com/105945382/223475737-8c4d740b-9fce-4e50-837a-2fc2dbfd0ff8.png" />
 </a>
+<a href="https://www.facebook.com/profile.php?id=100085686619331">
+  <img alt="Atharv Arya Facebook" width="22px" src="https://user-images.githubusercontent.com/105945382/223480513-87077368-3b5a-427b-9f47-030e15a42c47.png" />
+</a>
 <br clear="left"/>
 </br>
 
