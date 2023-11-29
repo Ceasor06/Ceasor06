@@ -16,7 +16,7 @@
 </br>
 
 - 🔭 I’m currently working on my Capstone and research project.
-- 🌱 Currently learning Quantum Mechanics and doing sketches.
+- 🌱 My intellectual curiosity has recently led me to the intriguing realms of Quantum Mechanics. Simultaneously, I'm honing my creative skills through sketching, finding a unique blend between art and science.
 - 🤔 Applying for Grad-Universities. 
 - 💬 Ask me about **ML related doubts, Physics, and any conspiracy theories 👀.**
 - 📫 Contact me on [Linkedin](https://www.linkedin.com/in/atharv-arya-322663149?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BU8V%2Fe5GYSdieBKF9zRz0Uw%3D%3D)
