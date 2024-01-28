@@ -15,7 +15,7 @@
 <br clear="left"/>
 </br>
 
-- 🔭 Currently, I'm engaged in building a robust portfolio in Machine Learning and AI. I'm actively participating in various projects and competitions.
+- 🔭 Currently, I'm engaged in building a robust portfolio in Deep Learning and AI. I'm actively participating in various projects and competitions.
 - 🌱 Besides my technical endeavors, I'm also broadening my knowledge in Quantum Mechanics and nurturing my creativity through sketching – a perfect blend of science and art.
 - 🤔 Applying for Summer Internship ~24. 
 - 💬 Got questions about Machine Learning, Physics, or want to delve into the world of conspiracy theories? I'm your guy! Let's discuss and explore these fascinating topics together.
