@@ -17,7 +17,7 @@
 
 - 🔭 Currently, I'm engaged in building a robust portfolio in Deep Learning and AI. I'm actively participating in various projects and competitions.
 - 🌱 Besides my technical endeavors, I'm also broadening my knowledge in Quantum Mechanics and nurturing my creativity through sketching – a perfect blend of science and art.
-- 🤔 Applying for Summer Internship ~24. 
+- 🤔 *Still Applying for Summer Internship ~24. 
 - 💬 Got questions about Machine Learning, Physics, or want to delve into the world of conspiracy theories? I'm your guy! Let's discuss and explore these fascinating topics together.
 - 📫 Contact me on [Linkedin](https://www.linkedin.com/in/atharv-arya-322663149?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BU8V%2Fe5GYSdieBKF9zRz0Uw%3D%3D)
 - 🗽 Fun fact: My Life
