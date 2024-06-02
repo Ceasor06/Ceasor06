@@ -1,8 +1,9 @@
 ## 🗿 Hello there <img align="right" width=490 src="https://github.com/Ceasor06/Ceasor06/blob/main/obiwan-hellothere.gif" />
 
 <a href="https://www.atharvarya.com/">
-  <img align="left" alt="Atharv Arya Website" width="22px" src="https://github.com/Ceasor06/Ceasor06/blob/main/86c30529904c3a992eb7241299e5f3e5.jpg" />
+  <img align="left" alt="Atharv Arya Website" width="22px" src="https://github.com/Ceasor06/Ceasor06/blob/main/86c30529904c3a992eb7241299e5f3e5.jpg" style="border-radius: 50%;" />
 </a>
+
 <a href="https://www.linkedin.com/in/atharv-arya-322663149/">
   <img align="left" alt="Atharv Arya LinkedIn" width="23px" src="https://github.com/Ceasor06/Ceasor06/blob/main/174857.png" />
 </a>
