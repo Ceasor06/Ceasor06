@@ -6,6 +6,9 @@
 <a href="https://www.github.com/Ceasor06/">
   <img alt="Atharv Arya Github" width="22px" src="https://github.com/Ceasor06/Ceasor06/blob/main/GitHub-Mark.png" />
 </a>
+<a href="https://www.atharvarya.com/">
+  <img alt="Atharv Arya Website" width="22px" src="https://github.com/Ceasor06/Ceasor06/blob/main/GitHub-Mark.png" />
+</a>
 <a href="https://www.instagram.com/ar_ya5282/?hl=en">
   <img align="left" alt="Atharv Arya Instagram" width="23px" src="https://user-images.githubusercontent.com/105945382/223475737-8c4d740b-9fce-4e50-837a-2fc2dbfd0ff8.png" />
 </a>
