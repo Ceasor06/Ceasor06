@@ -1,6 +1,6 @@
 ## 🗿 Hello there <img align="right" width=490 src="https://github.com/Ceasor06/Ceasor06/blob/main/obiwan-hellothere.gif" />
 
-<a href="https://www.atharvarya.com/">
+<a href="https://ceasor06.github.io/">
   <img align="left" alt="Atharv Arya Website" width="22px" src="https://github.com/Ceasor06/Ceasor06/blob/main/86c30529904c3a992eb7241299e5f3e5.jpg" style="border-radius: 50%;" />
 </a>
 
