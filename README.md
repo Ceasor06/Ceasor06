@@ -22,7 +22,7 @@
 - 🔭 Currently, I'm engaged in building a robust portfolio in Deep Learning and AI. I'm actively participating in various projects and competitions.
 - 🌱 Besides my technical endeavors, I'm also broadening my knowledge in Quantum Mechanics and nurturing my creativity through sketching – a perfect blend of science and art.
 - 🤔 *Actively Applying for Full Time Job. 
-- 🌐 Visit my [Portfolio](https://atharvarya.com)
+- 🌐 Visit my [Portfolio](https://ceasor06.github.io/)
 - 📫 Contact me on [Linkedin](https://www.linkedin.com/in/atharv-arya-322663149?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BU8V%2Fe5GYSdieBKF9zRz0Uw%3D%3D)
 - 🗽 Fun fact: My Life
 
